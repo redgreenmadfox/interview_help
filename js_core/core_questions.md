@@ -156,12 +156,6 @@
 </details>
 
 <details>
-  <summary></summary>
-
-  
-</details>
-
-<details>
   <summary>9. Что такое Set, Map, WeakSet и WeakMap?</summary>
 
   В ES-2015 появились новые типы коллекций в JavaScript: Set, Map, WeakSet и WeakMap.
